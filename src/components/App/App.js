@@ -1,6 +1,10 @@
 import React from "react";
-import logo from "/Users/bleb/DEV/school/codeCademy/ravenous/src/logo.svg";
+import logo from "../../logo.svg";
 import "./App.css";
+// import SearchBar from "/Users/bleb/DEV/school/codeCademy/ravenous/src/components/SearchBar/SearchBar.js";
+import SearchBar from "./../SearchBar/SearchBar";
+import Business from "./../Business/Business.css";
+import BusinessList from "./../BusinessList/BuisnessList.css";
 
 function App() {
   return (
