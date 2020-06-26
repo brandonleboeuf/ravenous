@@ -5,6 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  <link href="./reset.css" rel="stylesheet" type="text/css">
 }
 
 code {
