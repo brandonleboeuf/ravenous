@@ -1,8 +1,9 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import "./index.css";
-import App from "./components/App/App";
+import App from "../src/components/App/App";
 import * as serviceWorker from "./serviceWorker";
+// import src from "*.bmp";
 
 ReactDOM.render(
   <React.StrictMode>
