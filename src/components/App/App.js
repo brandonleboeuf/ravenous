@@ -3,6 +3,7 @@ import "./App.css";
 import SearchBar from "./../SearchBar/SearchBar";
 import BusinessList from "../BusinessList/BusinessList";
 
+// Placeholder content until the YELP api is connected
 const business = {
   imageSrc:
     "https://s3.amazonaws.com/codecademy-content/programs/react/ravenous/pizza.jpg",
@@ -16,6 +17,7 @@ const business = {
   reviewCount: 90,
 };
 
+// Injects placeholder content
 const businesses = [business, business, business, business, business, business];
 
 class App extends React.Component {
