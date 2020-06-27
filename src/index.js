@@ -3,8 +3,6 @@ import ReactDOM from "react-dom";
 import "./index.css";
 import App from "./components/App/App.js";
 import * as serviceWorker from "./serviceWorker";
-// import BusinessList from "./components/BusinessList/BusinessList";
-// import Business from "./components/Business/Business";
 // import src from "*.bmp";
 
 ReactDOM.render(
