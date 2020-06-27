@@ -1,3 +1,16 @@
+This is a project from CodeCademy's "Web Development" course called RAVENOUS.
+
+I am building a website utalizing React.JS components and the YELP API.
+
+
+
+
+
+
+
+
+Innitia YARN document below:
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
