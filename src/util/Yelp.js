@@ -1,8 +1,5 @@
 import apiKey from "./api";
 
-// const apiKey =
-//   "RIbJsHgpMv2_dFvBO1RKNz6W67lGwTfAMTVuxDzTDMMm4wpISJQC0-qPDItxHDA2sGi3IlAjHKWvpbte353lOLDAjvozos1I3dyv-eihBsckbRJKfAB4U1Igz9T4XnYx";
-
 const Yelp = {
   searchYelp(term, location, sortBy) {
     return fetch(
